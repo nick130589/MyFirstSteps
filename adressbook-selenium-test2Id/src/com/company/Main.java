@@ -4,10 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-<<<<<<< HEAD
-        println;
-=======
->>>>>>> origin/master
+int a;
+
     }
 }
 
